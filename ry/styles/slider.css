@@ -1,0 +1,40 @@
+/** Additional style you couldn't place anywhere **/
+/** Dive in. Have fun! :) **/
+
+.ant-carousel .slick-slide {
+  text-align: center;
+  overflow: hidden;
+}
+
+.ant-carousel .carousel-main .slick-slide {
+  height: 480px;
+  line-height: 480px;
+}
+
+.ant-carousel .carousel-main .slick-slide div {
+  height: 100%;
+}
+
+.ant-carousel .carousel-main .slick-slide div div {
+  height: 100%;
+}
+
+.ant-carousel .carousel-main .slick-slide img {
+  color: #fff;
+  height: 100%;
+  margin: 0 auto;
+}
+
+/* .promos {
+  border-top: 1px solid #e0cece;
+  border-bottom: 1px solid #e0cece;
+  padding: 10px 0px;
+} */
+
+.variants {
+  padding: 20px 0px;
+}
+
+.item-attr span {
+  margin-left: 0 !important;
+}
