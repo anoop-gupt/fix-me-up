@@ -8,7 +8,7 @@ This is a project built on a very old version of NexJS using design patterns tha
 ## What we would like you to do for us.
 * Upgrade to the latest version of React.
 * Migrate the componens to Functional Components and Hooks.
-* Add React Testing Library to the codee base and Write a few Unit tests.
+* Add React Testing Library to the code base and write a few Unit tests.
 * Make it fully responsive using CSS grids or flex box.
 * Create a docker file that runs the app as a docker Contatiner.
 * Deploy the app to Heroku.
